@@ -6,7 +6,7 @@
 ## My Contact Info
 
 
-- Adress: 9dzma kherkheulidze st. rustavi, Georgia
+- Adress: 9dzma kherkheulidze st. Rustavi, Georgia
 - phone: +995 592 22 10 33
 - E-mail: - luka.grdzelishvili1994@gmail.com
 - GitHub: - <a href="https://github.com/luttinno">luttinno</a>
@@ -15,7 +15,7 @@
 ---
 
 ## Summary
-My name is Luka Grdzelishvili, 27 years old, living in Rustavi, Gerogia. My first meet to programing was when I studied in university, I was mathematic facultet and had not many time for programing, but I was attracted codding and I always tried to learn programing independently. I am social person, can work in team, I can easely solve problems in stresfull situation
+My name is Luka Grdzelishvili, 27 years old, living in Rustavi, Gerogia. My first meet to programing was when I studied in university, I was mathematic facultet and had not many time for programing, but I was attracted codding and I always tried to learn programing independently. I am social person, can work in team, I can easely solve problems in stresfull situation.
 
 
 ---
